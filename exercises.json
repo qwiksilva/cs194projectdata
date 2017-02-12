@@ -1,0 +1,102 @@
+[
+ {
+   "Name": "Bench Press",
+   "Type": "WEIGHT",
+   "Region": "CHEST"
+ },
+ {
+   "Name": "Incline Bench Press",
+   "Type": "WEIGHT",
+   "Region": "CHEST"
+ },
+ {
+   "Name": "Ab Crunch",
+   "Type": "BODY",
+   "Region": "CORE"
+ },
+ {
+   "Name": "Bent-over Row",
+   "Type": "WEIGHT",
+   "Region": "BACK"
+ },
+ {
+   "Name": "Bicep Curl",
+   "Type": "WEIGHT",
+   "Region": "ARMS"
+ },
+ {
+   "Name": "Chinups",
+   "Type": "BODY",
+   "Region": "ARMS"
+ },
+ {
+   "Name": "Cycling",
+   "Type": "CARDIO",
+   "Region": "BODY"
+ },
+ {
+   "Name": "Deadlift",
+   "Type": "WEIGHT",
+   "Region": "LEGS"
+ },
+ {
+   "Name": "Dips",
+   "Type": "BODY",
+   "Region": "ARMS"
+ },
+ {
+   "Name": "Lateral Raise",
+   "Type": "WEIGHT",
+   "Region": "ARMS"
+ },
+ {
+   "Name": "Lunges",
+   "Type": "WEIGHT",
+   "Region": "LEGS"
+ },
+ {
+   "Name": "Military Press",
+   "Type": "WEIGHT",
+   "Region": "BACK"
+ },
+ {
+   "Name": "Pull-Ups",
+   "Type": "BODY",
+   "Region": "BACK"
+ },
+ {
+   "Name": "Pulldown",
+   "Type": "WEIGHT",
+   "Region": "BACK"
+ },
+ {
+   "Name": "Push-Ups",
+   "Type": "BODY",
+   "Region": "CHEST"
+ },
+ {
+   "Name": "Rowing Machine",
+   "Type": "CARDIO",
+   "Region": "BODY"
+ },
+ {
+   "Name": "Running",
+   "Type": "CARDIO",
+   "Region": "BODY"
+ },
+ {
+   "Name": "Squat",
+   "Type": "WEIGHT",
+   "Region": "LEGS"
+ },
+ {
+   "Name": "Tricep Extension",
+   "Type": "WEIGHT",
+   "Region": "ARMS"
+ },
+ {
+   "Name": "Swimming",
+   "Type": "CARDIO",
+   "Region": "BODY"
+ }
+]
