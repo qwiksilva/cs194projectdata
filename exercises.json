@@ -32,7 +32,7 @@
  {
    "Name": "Cycling",
    "Type": "CARDIO",
-   "Region": "BODY"
+   "Region": "MULTIPLE"
  },
  {
    "Name": "Deadlift",
@@ -77,12 +77,12 @@
  {
    "Name": "Rowing Machine",
    "Type": "CARDIO",
-   "Region": "BODY"
+   "Region": "MULTIPLE"
  },
  {
    "Name": "Running",
    "Type": "CARDIO",
-   "Region": "BODY"
+   "Region": "MULTIPLE"
  },
  {
    "Name": "Squat",
@@ -97,6 +97,6 @@
  {
    "Name": "Swimming",
    "Type": "CARDIO",
-   "Region": "BODY"
+   "Region": "MULTIPLE"
  }
 ]
